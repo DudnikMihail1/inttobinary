@@ -1,0 +1,10 @@
+C:\Users\anton\source\repos\Dudnik 2 v 10\bin\Debug\Dudnik 2 v 10.exe.config
+C:\Users\anton\source\repos\Dudnik 2 v 10\bin\Debug\Dudnik 2 v 10.exe
+C:\Users\anton\source\repos\Dudnik 2 v 10\bin\Debug\Dudnik 2 v 10.pdb
+C:\Users\anton\source\repos\Dudnik 2 v 10\obj\Debug\Dudnik 2 v 10.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\Dudnik 2 v 10\obj\Debug\Dudnik_2_v_10.Form1.resources
+C:\Users\anton\source\repos\Dudnik 2 v 10\obj\Debug\Dudnik_2_v_10.Properties.Resources.resources
+C:\Users\anton\source\repos\Dudnik 2 v 10\obj\Debug\Dudnik 2 v 10.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\Dudnik 2 v 10\obj\Debug\Dudnik 2 v 10.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Dudnik 2 v 10\obj\Debug\Dudnik 2 v 10.exe
+C:\Users\anton\source\repos\Dudnik 2 v 10\obj\Debug\Dudnik 2 v 10.pdb
